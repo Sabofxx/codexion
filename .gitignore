@@ -1,2 +1,5 @@
-coders/codexion
-coders/srcs/*.o
+*.o
+*.a
+a.out
+codexion
+.DS_Store
